@@ -542,9 +542,9 @@ object formSettings: TformSettings
             AnchorSideBottom.Control = cbOverrideDefaultFont
             AnchorSideBottom.Side = asrBottom
             Left = 251
-            Height = 19
+            Height = 20
             Top = 152
-            Width = 69
+            Width = 80
             Anchors = [akTop, akLeft, akBottom]
             AutoSize = True
             Caption = 'Set Font'
