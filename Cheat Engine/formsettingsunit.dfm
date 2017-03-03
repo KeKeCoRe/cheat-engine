@@ -1085,8 +1085,8 @@ object formSettings: TformSettings
           object btnSetToolShortcut: TButton
             Left = 10
             Top = 138
-            Width = 92
-            Height = 21
+            Width = 100
+            Height = 22
             Caption = 'Set shortcut'
             Enabled = False
             TabOrder = 2
